@@ -6,17 +6,17 @@ excerpt_separator: "<!-- more -->"
 github: qlmlove
 author: "Sunrise"
 email: 123#163.com
-name: "潘学文个人博客"
+name: "厘米的BLOG"
 url: https://blogq.ml/
 domain: https://blogq.ml/
 all_categories: [
-["php", "PHP","/posts/php.html"], 
-["program", "软件编程","/posts/program.html"],
-["web", "Web建站","/posts/web.html"], 
-["linux", "Linux相关","/posts/linux.html"],
-["read", "读书笔记","/posts/read.html"], 
-["other", "杂记","/posts/other.html"],
-["about", "关于","/about.html"]
+["program", "Program","/posts/program.html"],
+["web", "Web","/posts/web.html"],
+["soft", "Soft","/posts/soft.html"], 
+["linux", "Linux","/posts/linux.html"],
+["note", "Note","/posts/note.html"], 
+["other", "Other","/posts/other.html"],
+["about", "About","/about.html"]
 ]
 
 paginate: 8
