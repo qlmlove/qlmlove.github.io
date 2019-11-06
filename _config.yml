@@ -10,7 +10,7 @@ name: "潘学文个人博客"
 url: https://blogq.ml/
 domain: https://blogq.ml/
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
+["php", "PHP","/posts/php.html"], 
 ["program", "软件编程","/posts/program.html"],
 ["web", "Web建站","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
@@ -21,7 +21,7 @@ all_categories: [
 
 paginate: 8
 paginate_path: "posts/page:num"
-timezone: America/Los_Angeles
+timezone: Asia/Shanghai
 
 collections:
   docs:
