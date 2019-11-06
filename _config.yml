@@ -7,8 +7,8 @@ github: panxw
 author: "潘学文"
 email: winfirm#163.com
 name: "潘学文个人博客"
-url: http://blogq.ml/notes/
-domain: www.panxw.com
+url: https://blogq.ml/
+domain: https://blogq.ml/
 all_categories: [
 ["android", "Android开发","/posts/android.html"], 
 ["program", "软件编程","/posts/program.html"],
